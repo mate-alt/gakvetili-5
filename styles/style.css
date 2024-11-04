@@ -1,0 +1,151 @@
+body{
+	padding: 59px 104px;
+}
+
+h1 {
+	font-size: 48px;
+	color: #30CBC2;
+	font-weight: 700;
+	font-family: "Inter", sans-serif;
+	display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: -37px;
+}
+main {
+	margin-bottom: 34px;
+}
+
+.linki {
+	font-size: 24px;
+	font-weight: 700;
+	color: #8D81FF;
+	margin-bottom: 14px;
+	margin-left: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+#active {
+	color: #4E6FAE;
+}
+
+#facebook {
+	width: 50px;
+	height: 50px;
+}
+
+#youtube {
+	width: 71px;
+	height: 50px;
+}
+
+#line {
+	width: 2px;
+	height: 50px;
+	background: black;
+	display: inline-block;
+	margin: 0 41px;
+}
+
+#line1 {
+	width: 2px;
+	height: 24px;
+	background: #5012D5;
+	display: inline-block;
+	margin: 0 20px;
+}
+
+.date {
+	font-size: 24px;
+	font-weight: 400;
+	color: #84FF81;
+	background-color: #5012D5;
+	display: inline-block;
+    padding: 5px;
+}
+
+.center {
+	text-align: center;
+}
+
+.gray {
+	color: #7E8898;
+}
+.heading{
+	font-size: 26px;
+	font-weight: 700;
+	color: #4E6FAE;
+	margin-bottom: 14px;
+	margin-left: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.something {
+	font-size: 24px;
+	font-weight: 400;
+	color: #4E6FAE;
+	margin-bottom: 14px;
+  display: inline-block;
+  text-decoration: none;
+}
+#no{
+	background-color: #E7E7E7;
+	width: 450px;
+	height: 192px;
+	display: inline-block;
+}
+
+#yes{
+	margin-left: 25px;
+	background-color: #E7E7E7;
+	width: 450px;
+	height: 192px;
+	display: inline-block;
+}
+
+.aura{
+	margin-top: 20px;
+	margin-left: 20px;
+	font-size: 20px;
+	font-weight: 400;
+	font-family: "Roboto", sans-serif;
+	text-align: left;
+	color: #3F4145;
+}
+
+#second{
+	display: grid;
+ 	align-items: center; 
+ 	grid-template-columns: 1fr 1fr 1fr;
+ 	column-gap: 5px;
+ 	align-items: center;
+}
+
+.aura2{
+	margin-top: -100px;
+	margin-left: 120px;
+	font-size: 16px;
+	font-weight: 400;
+	color: #7E8898;
+	font-family: "Roboto", sans-serif;
+}
+
+.scaling{
+	margin-left: 20px;
+	margin-top: 10px;
+	width: 77px;
+}
+
+.scaling1{
+	margin-left: 20px;
+	margin-top: 10px;
+	width: 99px;
+
+}
+
+
+
